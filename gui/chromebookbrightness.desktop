@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Chromebook Brightness Control
+GenericName=Chromebook Brightness Control
+Comment=Control the brightness of a Chromebook
+Exec=run-brightnessctl-gui.sh
+Icon=chromebookbrightness.png
+Terminal=false
+Categories=Development;
